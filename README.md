@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @labels053
-- 👀 I’m interested in bioinformatics and using it to attack societal injustices.
-- 🌱 I’m currently learning MATLAB and R.
+- 👀 I’m interested in bioinformatics and using it to fight societal injustices.
+- 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on creating an automatic pipeline that properly trims, performs de novo assembly, removes host reads, and uses BlastX to analyze the "no hit" file.
 - 📫 How to reach me: abels053@umn.edu
 - 😄 Pronouns: she/her/ella
