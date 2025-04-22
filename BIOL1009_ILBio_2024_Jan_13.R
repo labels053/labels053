@@ -1,6 +1,5 @@
 ############################################################
 ## CBS Inclusive Excellence Project
-## Katie Krueger 
 ## 
 ## Worked on File Last: Nov 11, 2024
 #############################################################
@@ -1053,7 +1052,7 @@ ggplot(sc_counts, aes(
 
 
 ################################################
-# new Katie graph ideas !
+# new graph ideas !
 # grade vs. proportion of group (by group membership)
 # all graphs on same figure
 # using Bio_All data frame
